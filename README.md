@@ -39,6 +39,8 @@ pip install pandas numpy faiss-cpu scikit-learn sentence-transformers transforme
 ```
 ### 3. Download the dataset
 [Click Here for the Kaggle Dataset](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks)
+
+
 I recommend changing the name of the dataset to songs.csv for simplicity but if you prefer a different filename, 
 update the SONGS_CSV_PATH global variable at the top of the Python file.
 
